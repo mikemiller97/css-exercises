@@ -1,0 +1,21 @@
+.first-class {
+    background-color: lightcoral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, DejaVu Sans, sans-serif;
+}
+
+#first-id {
+    color: blue;
+    font-size: 36px;
+}
+
+.second-class {
+    background-color: lightcoral;
+    font-family: Verdana, Geneva, Tahoma, sans-serif, DejaVu Sans, sans-serif;
+    font-size: 24px;
+}
+
+#second-id {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
